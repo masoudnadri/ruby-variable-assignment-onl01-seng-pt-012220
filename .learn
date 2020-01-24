@@ -1,6 +1,6 @@
 tags:
-  - variable assignment
-  - variables
+  - variable assignment 'greeting'  
+  - variables "Hello World"
 languages:
   - ruby
 resources: 2
